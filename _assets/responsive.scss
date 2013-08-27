@@ -9,12 +9,29 @@
       #ind-instagram, #ind-linkedin { display: none; }
       .links, .content {
         padding: 15px;
-        section.post { 
-          margin: 0 -15px; 
+        section.post {
+          margin: 0 -15px;
           > p, h1, h2, h3, h4, .signoff, blockquote, .highlight { padding: 0 15px; }
           > ul, > ol { padding: 0 30px; }
         }
       }
     }
+  }
+}
+
+
+
+@media (min-width : 480px)
+and (max-width : 780px) {
+  #container {
+    max-width: 600px;
+  }
+}
+
+
+
+@media (min-width : 1024px) {
+  #container {
+    max-width: 800px;
   }
 }
