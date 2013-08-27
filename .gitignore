@@ -1,2 +1,6 @@
 _site/
-.sass-cache
+.sass-cachebundler/*
+bundler/**/*
+.bundle/*
+.ruby-version
+_drafts/*

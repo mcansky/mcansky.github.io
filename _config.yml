@@ -1,5 +1,5 @@
-title:            Scribble
-description:      A jekyll theme. Because I scribble.
+title:            mcansky's
+description:      Writings from Thomas Riboulet.
 url:              # Site url.
 signoff:          # Your name.
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
@@ -10,16 +10,18 @@ links:
   - name:         About
     url:          /about
   - name:         Blog
-    url:          http://muan.co
+    url:          http://mcansky.github.io
     external:     true
   - name:         Email
-    url:          mailto:hello@muan.co
+    url:          mailto:riboulet+blog@gmail.com
     external:     true
   - name:         GitHub
-    url:          http://github.com/muan
+    url:          http://github.com/mcansky
     external:     true
 pygments:         true
+exclude:          ["bundler", "_drafts"]
 permalink:        pretty
 markdown:         rdiscount
 rdiscount:
   extensions:     [smart]
+

@@ -3,8 +3,8 @@ layout: page
 title: About
 ---
 
-Give people something to read and get to know you. Here's my attempt: this is [Mu-An](http://muan.co), a designer developer who lives in London at the moment.
+Give people something to read and get to know you.
 
-Tweet at [@muanchiou](http://twitter.com/muanchiou), read my code on [GitHub](http://github.com/muan), see my designs on [Dribbble](http://dribbble.com/muan), find my CV on [LinkedIn](http://uk.linkedin.com/in/muanchiou).
+Tweet at [@mcansky](http://twitter.com/mcansky), read my code on [GitHub](http://github.com/mcansky).
 
-This theme is made by me. You have a nice day. ♥
+This theme is made by [Mu-An](http://muan.co). You have a nice day. ♥
