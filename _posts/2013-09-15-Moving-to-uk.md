@@ -51,6 +51,11 @@ By now you have probably guessed my problem : as I am moving in from another cou
 
 I have tried no less than 4 banks : Barclays, MetroBank, Lloyds and First Direct (HSBC). All of them first told me "no, can't do". I always needed one more proof of address, the fact that I needed to get a flat and a bank account to get the flat was no use.
 
+**UPDATE** : I forgot one part about Lloyds : it could and should have worked with them. Several french people told me that Lloyds was the place to go to get an account, they only require an ID to start the process. So I did go to Lloyds or rather I started the process over internet then stopped by one local branch to drop the paperwork and get my passport checked and copied. The lady that handed me back my passport told me "it should only be a couple of weeks before you receive your welcome package". Four weeks later I am still waiting.
+
+Two weeks after stopping by the local branch I needed the bank account to get payment from a sale. I went to the the closest Lloyds branch I could find, and asked if my account was ready to receive funds. The cashier told me she could not find any account by my name, and that it probably meant the process was stuck somewhere. They have my temporary address in London, my phone number and my email address, still no news from them, no request for additionnal information.
+
+
 ## The tavern
 
 I am now closer to getting things sorted out. In fact, I am probably days away from having all. Thanks to my employer I managed to get past the guards at the real estate agency and I am now living in 2 bed rooms flat 6 mins away from  work. It's quite empty while I sort how to get things flown in from France but hey, it's nice to sleep in my own place. I did grab a mattress at IKEA, so you can picture me sleeping on a mattress on a floor, drug addict style.
