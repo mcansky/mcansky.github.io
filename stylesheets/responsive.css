@@ -18,3 +18,36 @@
           padding: 0 30px; }
     body #container .content blockquote {
       padding: 0 15px; } }
+
+@media (min-width: 480px) {
+  body #container {
+    max-width: 500px;
+  }
+}
+
+@media only screen and (min-device-width : 768px)  and (max-device-width : 1024px) {
+  body #container {
+    max-width: 700px;
+  }
+}
+
+@media only screen  and (min-width : 1024px) and (max-device-width : 1200px) {
+  body #container {
+    max-width: 1000px;
+  }
+  .paging .left {
+    margin-left: -540px; }
+  .paging .right {
+    margin-left: 520px; }
+}
+
+
+@media only screen  and (min-width : 1224px) {
+  body #container {
+    max-width: 1100px;
+  }
+  .paging .left {
+    margin-left: -640px; }
+  .paging .right {
+    margin-left: 620px; }
+}
