@@ -9,7 +9,7 @@ body {
   &, * { -webkit-font-smoothing: antialiased; }
   background: $background;
   color: #303030;
-  font-family: 'Open Sans', sans-serif;
+  font-family: Georgia,Cambria, 'Times New Roman', 'Times', serif;
   font-weight: 400;
   font-size: 13px;
   line-height: 19px;
@@ -207,7 +207,7 @@ section.post {
 }
 
 section.post, section > p {
-  font-size: 14px; line-height: 1.6em;
+  font-size: 22px; line-height: 1.6em;
   * { max-width: 100%; }
   em strong { background-color: #ffffee; padding: 0 2px; }
   blockquote {
