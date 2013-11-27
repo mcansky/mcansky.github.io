@@ -1,16 +1,24 @@
 h1, h2, h3, h4, h5, strong, b {
   font-weight: 600; }
 
+h2 {
+  font-size: 1.2em;
+}
+
+h3 {
+  font-size: 1em;
+}
+
 html, body {
   height: 100%; }
 
 body {
   background: #f9f9f9;
   color: #303030;
-  font-family: 'Open Sans', sans-serif;
+  font-family: Georgia,Cambria, 'Times New Roman', 'Times', serif;
   font-weight: 400;
-  font-size: 18px;
-  line-height: 19px;
+  font-size: 16px;
+  line-height: 1.4em;
   padding: 0;
   margin: 0; }
   body, body * {
@@ -231,11 +239,14 @@ ul.posts .datetime {
   *display: inline;
   *vertical-align: auto;
   width: 130px;
-  text-transform: uppercase;
   float: right;
   color: #999;
-  font-size: 10px;
+  font-size: 14px;
   text-align: right; }
+
+ul.posts a {
+  font-size: 18px;
+}
 
 section.post {
   margin: 0 -60px;
@@ -249,13 +260,9 @@ section.post {
   section.post ul ul, section.post ul ol, section.post ol ul, section.post ol ol {
     margin-left: 20px; }
   section.post h1 {
-    text-transform: uppercase;
     text-align: center;
-    line-height: 1.5em;
+    line-height: 1.3em;
     margin-bottom: 60px; }
-    section.post h1 .date {
-      color: #d0d0d0;
-      font-size: 13px; }
   section.post iframe {
     width: 100%; }
   section.post iframe, section.post img {
@@ -264,6 +271,24 @@ section.post {
     border-bottom-right-radius: 3px;
     border-top-left-radius: 3px;
     border-top-right-radius: 3px; }
+
+section.post h1 .date {
+  position: relative;
+  text-align: right;
+  margin-left: auto;
+  margin-right: 0;
+  padding-right: 1em;
+  top: -40px;
+  right: -120px;
+  width: 8em;
+  background: #1d5884;
+  color: #FFF;
+  font-weight: bold;
+  font-size: 16px;
+  border-bottom-right-radius: 6px;
+  border-top-right-radius: 6px;
+  border-left: 2px solid #333;
+}
 
 section.post, section > p {
   font-size: 18px;
