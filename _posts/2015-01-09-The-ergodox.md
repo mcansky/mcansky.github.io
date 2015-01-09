@@ -7,7 +7,7 @@ disqus: n
 
 As briefly said in the previous post I have bought and built an Ergodox Keyboard. If you are interested in mechanical, split keyboard you should have a look at those but also search around for alternatives.
 
-If you are looking for a place to buy one it mostly depends on your location. In Europe Falbatech is probably (at the moment) the best place to buy everything (but the keycaps) in one go. If you are in the US Massdrop is probably a better option for now, if you are not in a hurry.
+If you are looking for a place to buy one it mostly depends on your location. In Europe [Falbatech](http://falbatech.pl/prestashop/index.php) is probably (at the moment) the best place to buy everything (but the keycaps) in one go. If you are in the US [Massdrop](https://www.massdrop.com/buy/ergodox) is probably a better option for now, if you are not in a hurry.
 
 If you are in the mood of getting most things yourself you should check the [official ergodox hardware list](http://ergodox.org/Hardware.aspx).
 
@@ -20,7 +20,7 @@ It will take about 6 hours to assemble everything.
 
 ## The caps
 
-The caps are a different matter. It’s quite difficult to source a proper ergodox set (there is a lot of 1.5 keys) so most people end up waiting for group buys on mass drop or pimp my keyboard for specific sets. You can also buy blank sets from WASD keyboards.
+The caps are a different matter. It’s quite difficult to source a proper ergodox set (there is a lot of 1.5 keys) so most people end up waiting for group buys on Massdrop or pimp my keyboard for specific sets. You can also buy blank sets from [Pimp my keyboard](http://keyshop.pimpmykeyboard.com/products/full-keysets/dsa-blank-sets-1).
 
 ## a bit of a warning
 
