@@ -7,7 +7,7 @@ disqus: n
 
 A good friend asked me for some feedback about the Ergodox and since it's been a month I think it's a good time to share how things have been going.
 
-I have been carrying it back and forth between home and work as I did not want to leave it at the office and also liked the idea to use at home for my personal use.
+I have tried to split this report in several sections with the first sentence giving a quick overview and the last, as a quote giving a kind of conclusion on the section.
 
 ## The first few days
 
