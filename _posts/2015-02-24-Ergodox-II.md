@@ -1,4 +1,9 @@
-# Ergodox, part 3
+---
+layout: post
+title: Ergodox, part 3
+date: 2013-11-27 10:48:31
+disqus: n
+---
 
 I have finally received the Massdrop Ergodox. Here is a little account of what has been happening with it and its predecessor.
 
