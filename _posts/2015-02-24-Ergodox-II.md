@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ergodox, part 3
-date: 2013-11-27 10:48:31
+date: 2015-02-24 10:48:31
 disqus: n
 ---
 
